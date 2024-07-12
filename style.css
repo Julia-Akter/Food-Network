@@ -1,0 +1,162 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family:  "Inter", sans-serif;
+}
+header{
+    width: 100%;
+    height: 80px;
+    background-color: Coral;
+}
+.logo{
+    color: white;
+    padding: 20px 30px;
+}
+ul{
+ float: right;
+display: flex;
+ margin: -50px 30px 0px;   
+}
+ul li{
+    list-style-type: none;
+}
+ul li a{
+    color: black;
+    text-decoration: none;
+    padding: 0px 30px;
+    color: white;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.first{
+    width: 100%;
+    height: 300px;
+    background-color: Cornsilk;
+    display: flex;
+   
+}
+span{
+    color: mediumvioletred;
+}
+.a{
+    width: 50%;
+}
+.aa{
+    padding-top: 5%;
+   padding-left: 20%;
+}
+.a img{
+    width:80%;
+    margin-top: -5%;
+}
+.link-buttom{
+    background-image: linear-gradient(orangered,yellow);
+    color: white;
+    border-radius: 30px;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-weight: 700;
+}
+.second{
+    width: 100%;
+    height: 300px;
+    background-color: LightCyan;
+    display: flex;
+}
+.b{
+    width: 50%;
+}
+.bb{
+    padding-top: 5%;
+   padding-right: 15%;
+}
+.b img{
+    width:80%;
+    padding-left: 10px;
+    margin-top: -3%;
+}
+.third{
+    width: 100%;
+    height: 800px;
+    padding-top: 2%;
+   background-color: MintCream;
+}
+.center{
+    text-align: center;
+}
+.c{
+    display: flex;
+    margin: 0px 10%;
+    padding-top: 3%;
+ }
+ .cc{
+     width:30%;
+     height: 430px;
+     margin-left: 5%;
+     padding: 0px 50px;
+     box-shadow: 10px 10px 40px grey;
+     border-radius: 10px;
+ }
+ .cc h1,p{
+    text-align: left;
+ }
+ .c img{
+     width: 100%;
+     padding-top: 40px;
+ }
+ .d{
+    display: flex;
+    box-shadow: 10px 10px 40px grey;
+    margin: 2% 10% 0px 15%;
+    border-radius: 10px;
+ }
+.dd{
+    padding: 30px 85px;
+    text-align: center;
+}
+.four{
+    width: 100%;
+    height: 520px;
+    background-color: 	LemonChiffon;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 2%;
+}
+input{
+    width: 20%;
+    height: 40px;
+    padding: 30px;
+}
+textarea{
+    width: 20%;
+    height: 200px;
+    padding: 30px;
+}
+label{
+    font-size: 20px;
+    font-weight: bold;
+    color: red;
+}
+.but{
+    margin-right: 70px;
+}
+footer{
+    width: 100%;
+    height: 150px;
+    background-color: RosyBrown;
+    color: white;
+    padding-top: 2%;
+}
+.n{
+    text-align: center;
+    color: grey;
+}
+.nn{
+    text-align: center;
+}
+p{
+    color: gray;
+    text-align: justify;
+}
